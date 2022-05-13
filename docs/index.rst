@@ -13,6 +13,7 @@ Hello world!
    :caption: Contents:
 
    user-guide
+   api
 
 
 
